@@ -2,6 +2,10 @@
 
 File browser for the terminal. Tested in iTerm2.
 
+## Demo
+
+![demo](http://fat.gfycat.com/ValuableBeautifulClumber.gif)
+
 ## Install
 
     git clone https://github.com/aalin/ocd.git ~/.ocd/
